@@ -36,7 +36,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
         <Link to="/" className="flex items-center gap-3 group">
           <img 
-            src="ethereon-brain.png" 
+            src="/ethereon-brain.png" 
             alt="Logo"
             className="w-8 h-8 object-contain group-hover:opacity-80 transition-opacity" 
           />
